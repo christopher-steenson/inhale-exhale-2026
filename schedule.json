@@ -1,205 +1,11 @@
 {
-  "generated_at": "2026-11-02T11:28:56.670577+00:00",
+  "generated_at": "2026-11-03T21:53:17.495429+00:00",
   "timezone": "Europe/Dublin",
   "broadcast_start": "09:00",
   "broadcast_end": "21:00",
-  "horizon_days": 7,
+  "horizon_days": 10,
   "mock": false,
   "days": [
-    {
-      "date": "2026-11-02",
-      "label": "Monday 02 November 2026",
-      "events": [
-        {
-          "time": "13:35",
-          "datetime_utc": "2026-11-02T13:35:00+00:00",
-          "type": "exhale",
-          "location": "North Sea",
-          "in_window": true
-        },
-        {
-          "time": "16:57",
-          "datetime_utc": "2026-11-02T16:57:00+00:00",
-          "type": "exhale",
-          "location": "St. George's Channel",
-          "in_window": true
-        },
-        {
-          "time": "17:14",
-          "datetime_utc": "2026-11-02T17:14:00+00:00",
-          "type": "inhale",
-          "location": "North Channel",
-          "in_window": true
-        },
-        {
-          "time": "17:20",
-          "datetime_utc": "2026-11-02T17:20:00+00:00",
-          "type": "exhale",
-          "location": "Shannon Estuary",
-          "in_window": true
-        },
-        {
-          "time": "17:38",
-          "datetime_utc": "2026-11-02T17:38:00+00:00",
-          "type": "exhale",
-          "location": "Cork Harbour",
-          "in_window": true
-        },
-        {
-          "time": "20:11",
-          "datetime_utc": "2026-11-02T20:11:00+00:00",
-          "type": "inhale",
-          "location": "North Sea",
-          "in_window": true
-        },
-        {
-          "time": "23:20",
-          "datetime_utc": "2026-11-02T23:20:00+00:00",
-          "type": "inhale",
-          "location": "Cork Harbour",
-          "in_window": false
-        },
-        {
-          "time": "23:30",
-          "datetime_utc": "2026-11-02T23:30:00+00:00",
-          "type": "inhale",
-          "location": "St. George's Channel",
-          "in_window": false
-        }
-      ]
-    },
-    {
-      "date": "2026-11-03",
-      "label": "Tuesday 03 November 2026",
-      "events": [
-        {
-          "time": "00:02",
-          "datetime_utc": "2026-11-03T00:02:00+00:00",
-          "type": "exhale",
-          "location": "North Channel",
-          "in_window": false
-        },
-        {
-          "time": "00:02",
-          "datetime_utc": "2026-11-03T00:02:00+00:00",
-          "type": "inhale",
-          "location": "Shannon Estuary",
-          "in_window": false
-        },
-        {
-          "time": "02:25",
-          "datetime_utc": "2026-11-03T02:25:00+00:00",
-          "type": "exhale",
-          "location": "North Sea",
-          "in_window": false
-        },
-        {
-          "time": "05:00",
-          "datetime_utc": "2026-11-03T05:00:00+00:00",
-          "type": "exhale",
-          "location": "St. George's Channel",
-          "in_window": false
-        },
-        {
-          "time": "05:59",
-          "datetime_utc": "2026-11-03T05:59:00+00:00",
-          "type": "exhale",
-          "location": "Shannon Estuary",
-          "in_window": false
-        },
-        {
-          "time": "06:13",
-          "datetime_utc": "2026-11-03T06:13:00+00:00",
-          "type": "exhale",
-          "location": "Cork Harbour",
-          "in_window": false
-        },
-        {
-          "time": "06:24",
-          "datetime_utc": "2026-11-03T06:24:00+00:00",
-          "type": "inhale",
-          "location": "North Channel",
-          "in_window": false
-        },
-        {
-          "time": "09:12",
-          "datetime_utc": "2026-11-03T09:12:00+00:00",
-          "type": "inhale",
-          "location": "North Sea",
-          "in_window": true
-        },
-        {
-          "time": "12:07",
-          "datetime_utc": "2026-11-03T12:07:00+00:00",
-          "type": "inhale",
-          "location": "Cork Harbour",
-          "in_window": true
-        },
-        {
-          "time": "12:20",
-          "datetime_utc": "2026-11-03T12:20:00+00:00",
-          "type": "inhale",
-          "location": "Shannon Estuary",
-          "in_window": true
-        },
-        {
-          "time": "12:25",
-          "datetime_utc": "2026-11-03T12:25:00+00:00",
-          "type": "exhale",
-          "location": "North Channel",
-          "in_window": true
-        },
-        {
-          "time": "12:42",
-          "datetime_utc": "2026-11-03T12:42:00+00:00",
-          "type": "inhale",
-          "location": "St. George's Channel",
-          "in_window": true
-        },
-        {
-          "time": "15:03",
-          "datetime_utc": "2026-11-03T15:03:00+00:00",
-          "type": "exhale",
-          "location": "North Sea",
-          "in_window": true
-        },
-        {
-          "time": "18:22",
-          "datetime_utc": "2026-11-03T18:22:00+00:00",
-          "type": "exhale",
-          "location": "St. George's Channel",
-          "in_window": true
-        },
-        {
-          "time": "18:39",
-          "datetime_utc": "2026-11-03T18:39:00+00:00",
-          "type": "inhale",
-          "location": "North Channel",
-          "in_window": true
-        },
-        {
-          "time": "18:42",
-          "datetime_utc": "2026-11-03T18:42:00+00:00",
-          "type": "exhale",
-          "location": "Shannon Estuary",
-          "in_window": true
-        },
-        {
-          "time": "18:56",
-          "datetime_utc": "2026-11-03T18:56:00+00:00",
-          "type": "exhale",
-          "location": "Cork Harbour",
-          "in_window": true
-        },
-        {
-          "time": "21:24",
-          "datetime_utc": "2026-11-03T21:24:00+00:00",
-          "type": "inhale",
-          "location": "North Sea",
-          "in_window": false
-        }
-      ]
-    },
     {
       "date": "2026-11-04",
       "label": "Wednesday 04 November 2026",
@@ -988,6 +794,458 @@
           "datetime_utc": "2026-11-09T11:22:00+00:00",
           "type": "exhale",
           "location": "St. George's Channel",
+          "in_window": true
+        },
+        {
+          "time": "11:34",
+          "datetime_utc": "2026-11-09T11:34:00+00:00",
+          "type": "exhale",
+          "location": "Cork Harbour",
+          "in_window": true
+        },
+        {
+          "time": "14:15",
+          "datetime_utc": "2026-11-09T14:15:00+00:00",
+          "type": "inhale",
+          "location": "North Sea",
+          "in_window": true
+        },
+        {
+          "time": "17:10",
+          "datetime_utc": "2026-11-09T17:10:00+00:00",
+          "type": "inhale",
+          "location": "Shannon Estuary",
+          "in_window": true
+        },
+        {
+          "time": "17:19",
+          "datetime_utc": "2026-11-09T17:19:00+00:00",
+          "type": "inhale",
+          "location": "Cork Harbour",
+          "in_window": true
+        },
+        {
+          "time": "17:26",
+          "datetime_utc": "2026-11-09T17:26:00+00:00",
+          "type": "exhale",
+          "location": "North Channel",
+          "in_window": true
+        },
+        {
+          "time": "18:12",
+          "datetime_utc": "2026-11-09T18:12:00+00:00",
+          "type": "inhale",
+          "location": "St. George's Channel",
+          "in_window": true
+        },
+        {
+          "time": "20:04",
+          "datetime_utc": "2026-11-09T20:04:00+00:00",
+          "type": "exhale",
+          "location": "North Sea",
+          "in_window": true
+        },
+        {
+          "time": "23:16",
+          "datetime_utc": "2026-11-09T23:16:00+00:00",
+          "type": "exhale",
+          "location": "Shannon Estuary",
+          "in_window": false
+        },
+        {
+          "time": "23:38",
+          "datetime_utc": "2026-11-09T23:38:00+00:00",
+          "type": "inhale",
+          "location": "North Channel",
+          "in_window": false
+        },
+        {
+          "time": "23:45",
+          "datetime_utc": "2026-11-09T23:45:00+00:00",
+          "type": "exhale",
+          "location": "St. George's Channel",
+          "in_window": false
+        },
+        {
+          "time": "23:48",
+          "datetime_utc": "2026-11-09T23:48:00+00:00",
+          "type": "exhale",
+          "location": "Cork Harbour",
+          "in_window": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "label": "Tuesday 10 November 2026",
+      "events": [
+        {
+          "time": "02:31",
+          "datetime_utc": "2026-11-10T02:31:00+00:00",
+          "type": "inhale",
+          "location": "North Sea",
+          "in_window": false
+        },
+        {
+          "time": "05:26",
+          "datetime_utc": "2026-11-10T05:26:00+00:00",
+          "type": "inhale",
+          "location": "Shannon Estuary",
+          "in_window": false
+        },
+        {
+          "time": "05:36",
+          "datetime_utc": "2026-11-10T05:36:00+00:00",
+          "type": "inhale",
+          "location": "Cork Harbour",
+          "in_window": false
+        },
+        {
+          "time": "05:43",
+          "datetime_utc": "2026-11-10T05:43:00+00:00",
+          "type": "exhale",
+          "location": "North Channel",
+          "in_window": false
+        },
+        {
+          "time": "06:21",
+          "datetime_utc": "2026-11-10T06:21:00+00:00",
+          "type": "inhale",
+          "location": "St. George's Channel",
+          "in_window": false
+        },
+        {
+          "time": "08:25",
+          "datetime_utc": "2026-11-10T08:25:00+00:00",
+          "type": "exhale",
+          "location": "North Sea",
+          "in_window": false
+        },
+        {
+          "time": "11:38",
+          "datetime_utc": "2026-11-10T11:38:00+00:00",
+          "type": "exhale",
+          "location": "Shannon Estuary",
+          "in_window": true
+        },
+        {
+          "time": "11:54",
+          "datetime_utc": "2026-11-10T11:54:00+00:00",
+          "type": "inhale",
+          "location": "North Channel",
+          "in_window": true
+        },
+        {
+          "time": "11:58",
+          "datetime_utc": "2026-11-10T11:58:00+00:00",
+          "type": "exhale",
+          "location": "St. George's Channel",
+          "in_window": true
+        },
+        {
+          "time": "12:07",
+          "datetime_utc": "2026-11-10T12:07:00+00:00",
+          "type": "exhale",
+          "location": "Cork Harbour",
+          "in_window": true
+        },
+        {
+          "time": "14:49",
+          "datetime_utc": "2026-11-10T14:49:00+00:00",
+          "type": "inhale",
+          "location": "North Sea",
+          "in_window": true
+        },
+        {
+          "time": "17:46",
+          "datetime_utc": "2026-11-10T17:46:00+00:00",
+          "type": "inhale",
+          "location": "Shannon Estuary",
+          "in_window": true
+        },
+        {
+          "time": "17:53",
+          "datetime_utc": "2026-11-10T17:53:00+00:00",
+          "type": "inhale",
+          "location": "Cork Harbour",
+          "in_window": true
+        },
+        {
+          "time": "18:01",
+          "datetime_utc": "2026-11-10T18:01:00+00:00",
+          "type": "exhale",
+          "location": "North Channel",
+          "in_window": true
+        },
+        {
+          "time": "18:39",
+          "datetime_utc": "2026-11-10T18:39:00+00:00",
+          "type": "inhale",
+          "location": "St. George's Channel",
+          "in_window": true
+        },
+        {
+          "time": "20:38",
+          "datetime_utc": "2026-11-10T20:38:00+00:00",
+          "type": "exhale",
+          "location": "North Sea",
+          "in_window": true
+        },
+        {
+          "time": "23:49",
+          "datetime_utc": "2026-11-10T23:49:00+00:00",
+          "type": "exhale",
+          "location": "Shannon Estuary",
+          "in_window": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "label": "Wednesday 11 November 2026",
+      "events": [
+        {
+          "time": "00:13",
+          "datetime_utc": "2026-11-11T00:13:00+00:00",
+          "type": "inhale",
+          "location": "North Channel",
+          "in_window": false
+        },
+        {
+          "time": "00:15",
+          "datetime_utc": "2026-11-11T00:15:00+00:00",
+          "type": "exhale",
+          "location": "St. George's Channel",
+          "in_window": false
+        },
+        {
+          "time": "00:19",
+          "datetime_utc": "2026-11-11T00:19:00+00:00",
+          "type": "exhale",
+          "location": "Cork Harbour",
+          "in_window": false
+        },
+        {
+          "time": "03:09",
+          "datetime_utc": "2026-11-11T03:09:00+00:00",
+          "type": "inhale",
+          "location": "North Sea",
+          "in_window": false
+        },
+        {
+          "time": "06:00",
+          "datetime_utc": "2026-11-11T06:00:00+00:00",
+          "type": "inhale",
+          "location": "Shannon Estuary",
+          "in_window": false
+        },
+        {
+          "time": "06:09",
+          "datetime_utc": "2026-11-11T06:09:00+00:00",
+          "type": "inhale",
+          "location": "Cork Harbour",
+          "in_window": false
+        },
+        {
+          "time": "06:17",
+          "datetime_utc": "2026-11-11T06:17:00+00:00",
+          "type": "exhale",
+          "location": "North Channel",
+          "in_window": false
+        },
+        {
+          "time": "06:48",
+          "datetime_utc": "2026-11-11T06:48:00+00:00",
+          "type": "inhale",
+          "location": "St. George's Channel",
+          "in_window": false
+        },
+        {
+          "time": "08:57",
+          "datetime_utc": "2026-11-11T08:57:00+00:00",
+          "type": "exhale",
+          "location": "North Sea",
+          "in_window": false
+        },
+        {
+          "time": "12:13",
+          "datetime_utc": "2026-11-11T12:13:00+00:00",
+          "type": "exhale",
+          "location": "Shannon Estuary",
+          "in_window": true
+        },
+        {
+          "time": "12:28",
+          "datetime_utc": "2026-11-11T12:28:00+00:00",
+          "type": "inhale",
+          "location": "North Channel",
+          "in_window": true
+        },
+        {
+          "time": "12:29",
+          "datetime_utc": "2026-11-11T12:29:00+00:00",
+          "type": "exhale",
+          "location": "St. George's Channel",
+          "in_window": true
+        },
+        {
+          "time": "12:38",
+          "datetime_utc": "2026-11-11T12:38:00+00:00",
+          "type": "exhale",
+          "location": "Cork Harbour",
+          "in_window": true
+        },
+        {
+          "time": "15:20",
+          "datetime_utc": "2026-11-11T15:20:00+00:00",
+          "type": "inhale",
+          "location": "North Sea",
+          "in_window": true
+        },
+        {
+          "time": "18:22",
+          "datetime_utc": "2026-11-11T18:22:00+00:00",
+          "type": "inhale",
+          "location": "Shannon Estuary",
+          "in_window": true
+        },
+        {
+          "time": "18:25",
+          "datetime_utc": "2026-11-11T18:25:00+00:00",
+          "type": "inhale",
+          "location": "Cork Harbour",
+          "in_window": true
+        },
+        {
+          "time": "18:36",
+          "datetime_utc": "2026-11-11T18:36:00+00:00",
+          "type": "exhale",
+          "location": "North Channel",
+          "in_window": true
+        },
+        {
+          "time": "19:00",
+          "datetime_utc": "2026-11-11T19:00:00+00:00",
+          "type": "inhale",
+          "location": "St. George's Channel",
+          "in_window": true
+        },
+        {
+          "time": "21:14",
+          "datetime_utc": "2026-11-11T21:14:00+00:00",
+          "type": "exhale",
+          "location": "North Sea",
+          "in_window": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "label": "Thursday 12 November 2026",
+      "events": [
+        {
+          "time": "00:21",
+          "datetime_utc": "2026-11-12T00:21:00+00:00",
+          "type": "exhale",
+          "location": "Shannon Estuary",
+          "in_window": false
+        },
+        {
+          "time": "00:42",
+          "datetime_utc": "2026-11-12T00:42:00+00:00",
+          "type": "exhale",
+          "location": "St. George's Channel",
+          "in_window": false
+        },
+        {
+          "time": "00:49",
+          "datetime_utc": "2026-11-12T00:49:00+00:00",
+          "type": "inhale",
+          "location": "North Channel",
+          "in_window": false
+        },
+        {
+          "time": "00:49",
+          "datetime_utc": "2026-11-12T00:49:00+00:00",
+          "type": "exhale",
+          "location": "Cork Harbour",
+          "in_window": false
+        },
+        {
+          "time": "03:45",
+          "datetime_utc": "2026-11-12T03:45:00+00:00",
+          "type": "inhale",
+          "location": "North Sea",
+          "in_window": false
+        },
+        {
+          "time": "06:35",
+          "datetime_utc": "2026-11-12T06:35:00+00:00",
+          "type": "inhale",
+          "location": "Shannon Estuary",
+          "in_window": false
+        },
+        {
+          "time": "06:42",
+          "datetime_utc": "2026-11-12T06:42:00+00:00",
+          "type": "inhale",
+          "location": "Cork Harbour",
+          "in_window": false
+        },
+        {
+          "time": "06:51",
+          "datetime_utc": "2026-11-12T06:51:00+00:00",
+          "type": "exhale",
+          "location": "North Channel",
+          "in_window": false
+        },
+        {
+          "time": "07:12",
+          "datetime_utc": "2026-11-12T07:12:00+00:00",
+          "type": "inhale",
+          "location": "St. George's Channel",
+          "in_window": false
+        },
+        {
+          "time": "09:30",
+          "datetime_utc": "2026-11-12T09:30:00+00:00",
+          "type": "exhale",
+          "location": "North Sea",
+          "in_window": true
+        },
+        {
+          "time": "12:46",
+          "datetime_utc": "2026-11-12T12:46:00+00:00",
+          "type": "exhale",
+          "location": "Shannon Estuary",
+          "in_window": true
+        },
+        {
+          "time": "12:57",
+          "datetime_utc": "2026-11-12T12:57:00+00:00",
+          "type": "exhale",
+          "location": "St. George's Channel",
+          "in_window": true
+        },
+        {
+          "time": "13:03",
+          "datetime_utc": "2026-11-12T13:03:00+00:00",
+          "type": "inhale",
+          "location": "North Channel",
+          "in_window": true
+        },
+        {
+          "time": "13:10",
+          "datetime_utc": "2026-11-12T13:10:00+00:00",
+          "type": "exhale",
+          "location": "Cork Harbour",
+          "in_window": true
+        },
+        {
+          "time": "15:53",
+          "datetime_utc": "2026-11-12T15:53:00+00:00",
+          "type": "inhale",
+          "location": "North Sea",
           "in_window": true
         }
       ]
