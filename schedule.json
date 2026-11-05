@@ -1,87 +1,11 @@
 {
-  "generated_at": "2026-11-04T11:20:26.263991+00:00",
+  "generated_at": "2026-11-05T00:00:00.011802+00:00",
   "timezone": "Europe/Dublin",
   "broadcast_start": "09:00",
   "broadcast_end": "21:00",
   "horizon_days": 10,
   "mock": false,
   "days": [
-    {
-      "date": "2026-11-04",
-      "label": "Wednesday 04 November 2026",
-      "events": [
-        {
-          "time": "13:27",
-          "datetime_utc": "2026-11-04T13:27:00+00:00",
-          "type": "inhale",
-          "location": "Cork Harbour",
-          "in_window": true
-        },
-        {
-          "time": "13:33",
-          "datetime_utc": "2026-11-04T13:33:00+00:00",
-          "type": "inhale",
-          "location": "Shannon Estuary",
-          "in_window": true
-        },
-        {
-          "time": "13:41",
-          "datetime_utc": "2026-11-04T13:41:00+00:00",
-          "type": "exhale",
-          "location": "North Channel",
-          "in_window": true
-        },
-        {
-          "time": "14:02",
-          "datetime_utc": "2026-11-04T14:02:00+00:00",
-          "type": "inhale",
-          "location": "St. George's Channel",
-          "in_window": true
-        },
-        {
-          "time": "16:21",
-          "datetime_utc": "2026-11-04T16:21:00+00:00",
-          "type": "exhale",
-          "location": "North Sea",
-          "in_window": true
-        },
-        {
-          "time": "19:45",
-          "datetime_utc": "2026-11-04T19:45:00+00:00",
-          "type": "exhale",
-          "location": "St. George's Channel",
-          "in_window": true
-        },
-        {
-          "time": "19:48",
-          "datetime_utc": "2026-11-04T19:48:00+00:00",
-          "type": "exhale",
-          "location": "Shannon Estuary",
-          "in_window": true
-        },
-        {
-          "time": "19:54",
-          "datetime_utc": "2026-11-04T19:54:00+00:00",
-          "type": "inhale",
-          "location": "North Channel",
-          "in_window": true
-        },
-        {
-          "time": "20:05",
-          "datetime_utc": "2026-11-04T20:05:00+00:00",
-          "type": "exhale",
-          "location": "Cork Harbour",
-          "in_window": true
-        },
-        {
-          "time": "22:30",
-          "datetime_utc": "2026-11-04T22:30:00+00:00",
-          "type": "inhale",
-          "location": "North Sea",
-          "in_window": false
-        }
-      ]
-    },
     {
       "date": "2026-11-05",
       "label": "Thursday 05 November 2026",
